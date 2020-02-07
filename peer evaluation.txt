@@ -1,0 +1,38 @@
+Name: Luccas Hallow
+Date: 10/15/2019
+Project: Space Shooter
+Peer's repository: https://github.com/Soulzippey/05-Space-shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+I can't say I learned anything because it seems they did not sumbit a repository with any sort of .py file or anything really worth poring over.
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+Nothing really because there is nothing here to apply to my own work.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+I guess to actually write a program for the assignment.
+ 
+
+What could have been clearer or better commented?
+
+ what happened that didn't allow them to even attempt the project.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ Where it is.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes, surprisingly, this does contain an appropriate LICENSE
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ Something beyond just the literal name of the project.
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+I'm sure it's really great in your other projects. 
